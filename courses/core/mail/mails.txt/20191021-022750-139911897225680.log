@@ -1,0 +1,40 @@
+Content-Type: multipart/alternative;
+ boundary="===============4187244689032491228=="
+MIME-Version: 1.0
+Subject: mails.change_password.title
+From: sender@localhost.com
+To: estudiante@estudiante.com
+Date: Mon, 21 Oct 2019 07:27:50 -0000
+Message-ID: <157164287083.1.9869374346573117905@229e66ba2cc5>
+
+--===============4187244689032491228==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Estudiante Estrella
+
+https://localhost:6600/reset-password/4866b3ab9e5dcf175cac47ed09c27563d74335f9
+--===============4187244689032491228==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html lang="en">
+<head>
+	<title></title>
+	<meta content="">
+	<style></style>
+</head>
+<body>
+<div>
+	Estudiante Estrella
+	<br/>
+	<br/>
+	https://localhost:6600/reset-password/4866b3ab9e5dcf175cac47ed09c27563d74335f9
+</div>
+</body>
+</html>
+--===============4187244689032491228==--
+
+-------------------------------------------------------------------------------

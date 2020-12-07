@@ -1,0 +1,40 @@
+Content-Type: multipart/alternative;
+ boundary="===============5531863250295954956=="
+MIME-Version: 1.0
+Subject: mails.change_password.title
+From: sender@localhost.com
+To: maestro@maestro.com
+Date: Mon, 21 Oct 2019 07:26:33 -0000
+Message-ID: <157164279370.1.9299842266572917296@229e66ba2cc5>
+
+--===============5531863250295954956==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Maestro Dinamita
+
+https://localhost:6600/reset-password/f8d62d82314e8bf83099e661a279be0df882262f
+--===============5531863250295954956==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html lang="en">
+<head>
+	<title></title>
+	<meta content="">
+	<style></style>
+</head>
+<body>
+<div>
+	Maestro Dinamita
+	<br/>
+	<br/>
+	https://localhost:6600/reset-password/f8d62d82314e8bf83099e661a279be0df882262f
+</div>
+</body>
+</html>
+--===============5531863250295954956==--
+
+-------------------------------------------------------------------------------

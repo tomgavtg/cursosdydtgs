@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:443
+From: webmaster@localhost
+To: admin@courses.com
+Date: Thu, 17 Oct 2019 02:50:28 -0000
+Message-ID: <157128062876.1.8791202704378125629@1f482be08584>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:443.
+
+Please go to the following page and choose a new password:
+
+http://localhost:443/reset/MQ/5am-40250a1c72dc6b5086ee/
+
+Your username, in case you've forgotten: admin@courses.com
+
+Thanks for using our site!
+
+The localhost:443 team
+
+
+
+-------------------------------------------------------------------------------

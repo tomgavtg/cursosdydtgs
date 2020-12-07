@@ -1,0 +1,40 @@
+Content-Type: multipart/alternative;
+ boundary="===============2119030522021697403=="
+MIME-Version: 1.0
+Subject: mails.change_password.title
+From: sender@localhost.com
+To: maestro@maestro.com
+Date: Thu, 17 Oct 2019 08:04:50 -0000
+Message-ID: <157129949073.1.16394690094734793618@86dd7d16cce7>
+
+--===============2119030522021697403==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Roberto el maestro
+
+https://localhost:6600/reset-password/f83ced5a05e1fe2d483789997fb6f8c4c0879943
+--===============2119030522021697403==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html lang="en">
+<head>
+	<title></title>
+	<meta content="">
+	<style></style>
+</head>
+<body>
+<div>
+	Roberto el maestro
+	<br/>
+	<br/>
+	https://localhost:6600/reset-password/f83ced5a05e1fe2d483789997fb6f8c4c0879943
+</div>
+</body>
+</html>
+--===============2119030522021697403==--
+
+-------------------------------------------------------------------------------
